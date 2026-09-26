@@ -1,0 +1,10 @@
+target/
+project/target/
+project/project/
+obj_dir/
+test_run_dir/
+*.fir
+*.v
+*.anno.json
+.metals/
+.bloop/
